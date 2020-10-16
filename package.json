@@ -11,18 +11,20 @@
   "license": "ISC",
   "dependencies": {
     "better-sqlite3": "^7.1.1",
+    "chalk": "^4.0.0",
     "chance": "^1.1.7",
     "discord.js": "^12.3.1",
-    "memejs": "^1.2.3",
-    "chalk": "^4.0.0",
-    "node-gyp": "^7.1.0",
-    "predictionary": "^1.4.4",
-    "wikifakt": "^1.0.3",
-    "wolfram-alpha-node": "0.0.3",
     "enmap": "^5.2.4",
+    "figlet": "^1.5.0",
     "inquirer": "^7.1.0",
+    "memejs": "^1.2.3",
     "moment": "^2.24.0",
     "moment-duration-format": "^2.3.2",
+    "node-gyp": "^7.1.0",
+    "predictionary": "^1.4.4",
+    "wajs": "0.0.17",
+    "wikifakt": "^1.0.3",
+    "wolfram-alpha-node": "0.0.3",
     "xkcd-fun": "0.0.4"
   }
 }
