@@ -1,4 +1,4 @@
-# Welcome to Algobot!
+# Welcome to BscBot!
 This is the early stages of Algobot, with some basic commands. 
 
 This is being open sourced so people can play around with an already existing project.
