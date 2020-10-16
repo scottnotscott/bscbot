@@ -6,7 +6,7 @@ This is being open sourced so people can play around with an already existing pr
 
 You should have already created and added a bot to a test server.
 
-**npm start**: Starts the bot
+**npm start**: Starts the bot && 
 **npm test**: Run test
 
 ## example-config.js
