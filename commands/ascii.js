@@ -13,7 +13,6 @@ exports.run = async (client, message, args, level) => {
           console.dir(err);
           return;
       }
-      
       message.channel.send(`${data}`, {code: 'AsciiArt'});
   });
 }
